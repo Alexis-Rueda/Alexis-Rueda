@@ -8,6 +8,6 @@
 
 💬 Ask me about connecting Angular with Spring Boot using WebSocket, or anything related to modern JavaScript frameworks and backend development!
 
-📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/alexis-rueda-santos/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/alexis-rueda-santos/)
 
 ⚡ Fun fact: I have a degree in Clinical Psychology and a passion for technology, proving that tech and the human mind can work together to solve complex problems!
