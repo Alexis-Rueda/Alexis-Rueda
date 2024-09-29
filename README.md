@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there 👋 I'm Alexis Rueda
 
-<!--
-**Alexis-Rueda/Alexis-Rueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working as a software developer with a focus on Angular and Spring Boot, creating dynamic web applications that bridge the gap between frontend and backend efficiently.
 
-Here are some ideas to get you started:
+🌱 I’m currently studying Software Development Engineering at UVEG and enhancing my skills in advanced microservices architecture and WebSocket communication to build even more scalable applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👯 I’m looking to collaborate on open-source projects that involve modern web technologies or foundations that create social impact through technology.
+
+💬 Ask me about connecting Angular with Spring Boot using WebSocket, or anything related to modern JavaScript frameworks and backend development!
+
+📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/tuperfil](https://www.linkedin.com/in/alexis-rueda-santos/))
+
+⚡ Fun fact: I have a degree in Clinical Psychology and a passion for technology, proving that tech and the human mind can work together to solve complex problems!
